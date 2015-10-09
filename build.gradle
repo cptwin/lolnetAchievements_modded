@@ -18,8 +18,8 @@ buildscript {
 apply plugin: 'forge'
 
 version = "1.0"
-group= "nz.co.lolnet.modid" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = "modid"
+group= "nz.co.lolnet.lolnetachievementsmodded" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
+archivesBaseName = "LolnetAchievementsModded"
 
 minecraft {
     version = "1.7.10-10.13.4.1517-1.7.10"
